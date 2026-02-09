@@ -2,7 +2,11 @@
 
 ## Repository Contents
 - **data** :
-  - `WA_Fn-UseC_-Telco-Customer-Churn.csv`
+  - 8 basic datasets
+  - 'crime_econ.csv' : merged crime data and economic indicator data
+  - 'crime_long.csv' : melted crime data
+    
 - **notebook**
-  - `Cost_Sensitive_Telecom_Customer_Churn_Classification.ipynb` : Notebook for analysis and modeling. eedback to students.
+  - `1. Initial_Data_Construction.ipynb` : Notebook for initial data construction.
+  - `2. Clustering_Statistical_Analysis.ipynb` : Notebook for Clustering_Statistical_Analysis.
     
